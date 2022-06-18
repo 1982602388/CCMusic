@@ -1,0 +1,12 @@
+<!--pages/detail-video/index.wxml-->
+<video
+    class="video"
+     src="{{mvURLInfo.url}}"
+     danmu-list="{{danmuList}}"
+     danmu-btn="true"
+     autoplay
+     loop
+     vslide-gesture="true"
+
+>
+</video>
